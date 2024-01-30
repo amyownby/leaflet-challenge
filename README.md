@@ -1,6 +1,6 @@
-## Leaflet-Challenge
+# Leaflet-Challenge
 
-# Module 15
+## Module 15
 
 For this project, I used Leaflet mapping software to create a map of Alaska and detail recent earthquake activity in the area.
 
